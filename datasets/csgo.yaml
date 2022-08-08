@@ -1,0 +1,5 @@
+train: ../datasets/csgo/train/images
+val: ../datasets/csgo/valid/images
+
+nc: 2
+names: ['CT', 'T']
