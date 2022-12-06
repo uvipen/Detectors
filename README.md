@@ -8,7 +8,7 @@ Here is my python source code for training and testing a playing card detector. 
   <i>Poker demo</i>
 </p>
 
-The demo could also be found at [youtube demo](https://youtu.be/gd_EJJK_wQg)
+The demo could also be found at [youtube demo](https://youtu.be/7rFL5GeAdBc)
 
 ## Train
 
